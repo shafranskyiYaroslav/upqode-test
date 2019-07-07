@@ -1,3 +1,5 @@
+Link to web-page: https://shafranskyiyaroslav.github.io/upqode-test/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
