@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/upqode-test/static/css/main.2594b715.chunk.css",
+    "main.css": "/upqode-test/static/css/main.59387c7c.chunk.css",
     "main.js": "/upqode-test/static/js/main.07956e43.chunk.js",
     "main.js.map": "/upqode-test/static/js/main.07956e43.chunk.js.map",
     "runtime~main.js": "/upqode-test/static/js/runtime~main.2e3262ee.js",
@@ -8,9 +8,9 @@
     "static/js/2.40bd3ae2.chunk.js": "/upqode-test/static/js/2.40bd3ae2.chunk.js",
     "static/js/2.40bd3ae2.chunk.js.map": "/upqode-test/static/js/2.40bd3ae2.chunk.js.map",
     "index.html": "/upqode-test/index.html",
-    "precache-manifest.79a048974ab39fd94c525bda7a518e21.js": "/upqode-test/precache-manifest.79a048974ab39fd94c525bda7a518e21.js",
+    "precache-manifest.311cc5f39d5c7cd89fee2d20ab45afa0.js": "/upqode-test/precache-manifest.311cc5f39d5c7cd89fee2d20ab45afa0.js",
     "service-worker.js": "/upqode-test/service-worker.js",
-    "static/css/main.2594b715.chunk.css.map": "/upqode-test/static/css/main.2594b715.chunk.css.map",
+    "static/css/main.59387c7c.chunk.css.map": "/upqode-test/static/css/main.59387c7c.chunk.css.map",
     "static/media/App.css": "/upqode-test/static/media/products-title.42f459df.png",
     "static/media/ipad-mockup.png": "/upqode-test/static/media/ipad-mockup.8e4ffc4c.png",
     "static/media/title1.png": "/upqode-test/static/media/title1.e6690f1a.png",
